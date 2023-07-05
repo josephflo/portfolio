@@ -97,7 +97,7 @@ function Home() {
                             textAlign={"start"}
                             as={"h1"}
                         >
-                            {">"} Hey 👋 I'm Franco, <br />
+                            {">"} Hey 👋 I'm Joseph, <br />
                             <span style={{ color: "transparent" }}>{"> "}</span>
                             {text}
                             <Cursor />
@@ -129,7 +129,7 @@ function Home() {
                             //     display={{ base: "none", sm: "flex" }}
                         >
                             <Link
-                                href="https://www.linkedin.com/in/franco-angulo/"
+                                href="https://www.linkedin.com/in/josephflodev/"
                                 target={"_blank"}
                                 _hover={{ textDecor: "none" }}
                             >
@@ -162,7 +162,7 @@ function Home() {
                                 </Button>
                             </Link>
                             <Link
-                                href="https://github.com/francoa7"
+                                href="https://github.com/josephflo"
                                 target={"_blank"}
                                 mt={"0 !important"}
                                 _hover={{ textDecor: "none" }}
@@ -196,7 +196,7 @@ function Home() {
                                 </Button>
                             </Link>
                             <Link
-                                href="mailto:francoangulo2001@gmail.com"
+                                href="mailto:josephflo.dev@gmail.com"
                                 target={"_blank"}
                                 mt={"0 !important"}
                                 _hover={{ textDecor: "none" }}

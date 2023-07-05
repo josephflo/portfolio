@@ -1,6 +1,6 @@
 import { Image, Stack, Text, Link, Button } from "@chakra-ui/react";
 import React from "react";
-import profile from "../assets/profile.png";
+import profile from "../assets/profile2.png";
 import resume from "../assets/FrancoAngulo-Resume.pdf";
 import SectionTitle from "./SectionTitle";
 function About() {
@@ -61,7 +61,7 @@ function About() {
                             fontSize={{ base: ".9rem", md: "1.2rem" }}
                             textAlign={"start"}
                         >
-                            My name is Franco and I am a{" "}
+                            My name is Joseph and I am a{" "}
                             <b>Fullstack Web Developer</b>. Although I enjoy
                             working on both sides, <b>Frontend</b> and{" "}
                             <b>Backend</b>, I feel a bit more comfortable on the{" "}
